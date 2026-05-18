@@ -1,12 +1,17 @@
-## Hi there 👋
+Open-source engineering tools and utilities by [Chitrank Agnihotri](https://chitrankagnihotri.com).
 
-<!--
+---
 
-**Here are some ideas to get you started:**
+## Projects
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**[ask-widget](https://github.com/chitranklabs/ask-widget)** — Lightweight chat widget for developer portfolios  
+`Vite` `TypeScript` `React` `SSE Streaming` · Published on NPM & JSR
+
+**[git-hygiene](https://github.com/chitranklabs/git-hygiene)** — Zero-dependency Git metadata validator  
+`Node.js` `TypeScript` `GitHub Actions` · Published on NPM, JSR & GitHub Marketplace
+
+---
+
+Built with a focus on zero dependencies, security-first design, and production-grade quality.
+
+[chitrankagnihotri.com](https://chitrankagnihotri.com) · [LinkedIn](https://linkedin.com/in/chitrank-agnihotri) · [Developer](https://github.com/chitrank2050)
